@@ -5,6 +5,6 @@ I specialize in Data analysis, Game development, Networking and Software enginee
 
 My main programming language is Python. My secondary languages are: C/C++. 
 I use them when best perfomance is the goal. For example when making a game with specific 
-perfomace target, which can't be achieved with other popular game engines. In this my main tool is OpenGL.
+perfomace target, which can't be achieved with other popular game engines. In this case my main tool is OpenGL.
 I code in C# to make games on Unity game engine.
 I have experience in SQL, pandas, numpy.
