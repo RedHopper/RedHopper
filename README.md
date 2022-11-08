@@ -1,10 +1,9 @@
 Hello, 
-my name is Igor Mytsik. This online portfolio has been made made with purpose to demonstrate my programming skills.
+my name is Igor Mytsik. Welcome to my github portfolio.
 
-I specialize in Data analysis, Game development, Networking and Software engineering.
+Programming languages that I use: Python, C/C++.
 
-My main programming language is Python. My secondary languages are: C/C++. 
-I use them when best perfomance is the goal. For example when making a game with specific 
-perfomace target, which can't be achieved with other popular game engines. In this case my main tool is OpenGL.
-I code in C# to make games on Unity game engine.
-I have experience in SQL, pandas, numpy.
+My skill range includes: 
+  1. OpenGL graphics. I've developed several OpenGL projects (Core version 3.3) using C++ language. For one of them I have developed shader class to make work with them more straightforward and efficient.
+  2. MySQL. Program that reads browser's sqlite databases and shows user's search history, downloads and bookmarks.
+  3. Socket programming. Unix based DNS resolution program.
