@@ -8,4 +8,4 @@ As mentioned above my primary programming languages are Python and C/C++. I use 
 My skill range includes: 
   1. OpenGL graphics. I've developed several OpenGL projects (Core version 3.3) using C++ language.
   2. MySQL. Program that reads browser's sqlite databases and shows user's search history, downloads and bookmarks.
-  3. Socket programming. Unix based DNS resolution program.
+  3. Socket programming. Unix based DNS resolution program: https://github.com/RedHopper/dns_resolver.
