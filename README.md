@@ -1,11 +1,11 @@
 # About me
 
-Hello, 
-my name is Igor Mytsik. I'm the Software Engineer with experience in developing various programms for both unix and windows systems. I've been deeply involved in IT sphere for 4 years, have 3 years experince in administrating Linux systems and 4 yeras of programming on C++ and Python.
+Hello,
+my name is Igor Mytsik. I'm the Software Engineer who developes games and programms for both unix and windows systems. I have been administrating Linux systems for 4 yeras, working as a back-end developer and writing well-optimized, reusable code for 2 years.
 
-As mentioned above my primary programming languages are Python and C/C++. I use both languages for various tasks and can solve the same task in both languages. But when best perfomance is the goal C++ is my choice.
+My main programming languages are Python and C/C++. 
 
-My skill range includes: 
-  1. OpenGL graphics. I've developed several OpenGL projects (Core version 3.3) using C++ language.
+Developing experience: 
+  1. OpenGL graphics. I've developed several OpenGL projects (Core version 3.3) using C++ language. Here is my C++/OpenGL game: https://github.com/RedHopper/roaring_dungeon.
   2. MySQL. Program that reads browser's sqlite databases and shows user's search history, downloads and bookmarks.
-  3. Socket programming. Unix based DNS resolution program: https://github.com/RedHopper/dns_resolver.
+  3. Socket programming. Unix based DNS resolution program written in C++: https://github.com/RedHopper/dns_resolver.
