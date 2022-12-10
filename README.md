@@ -1,11 +1,19 @@
 # About me
 
-Hello,
-my name is Igor Mytsik. I'm a Software Engineer who developes games and programms for both unix and windows systems. I have been administrating Linux systems for 4 years, working as a back-end developer and writing well-optimized, reusable code for 2 years.
+Hello!
+My name is Igor Mytsik. I'm a Software Engineer and Game Developer specializing in different fields, from Data Analysis to low-level socket programming. Using latest technologies and technics in troubleshooting I ensure to provide optimal quality. Capable of writing new modules and tweaking old ones. Ready to collaborate with technical teams and provide optimized and sustainable solution.
 
-My main programming languages are Python and C/C++. 
+## Skills
+ ### Programming languages
+  * C++
+  * Python
+  * HTML
+ ### Libraries and APIs
+  pyTelegramBotAPI, Selenium, GLAD, GLFW, sdl2, OpenGL, GLM (OpenGL Mathematics), stb_image
+ ### Tools and Platforms
+  Unity, Visual Studio, GNU compiler, Vim, Blender
 
-## Developing experience: 
-  * **OpenGL graphics**. I've developed several OpenGL projects (Core version 3.3) using C++ language. Here is my C++/OpenGL game: https://github.com/RedHopper/roaring_dungeon.
+## Developing experience
+  * **OpenGL graphics**. I've developed several OpenGL projects (Core version 3.3) in C++ language. One of them is my C++/OpenGL game: https://github.com/RedHopper/roaring_dungeon.
   * **MySQL.** A program that reads browser's sqlite databases and shows user's search history, downloads and bookmarks.
-  * **Socket programming.** Unix based DNS resolution program written in C++: https://github.com/RedHopper/dns_resolver.
+  * **Socket programming.** DNS resolution program written in C++ for Linux: https://github.com/RedHopper/dns_resolver.
