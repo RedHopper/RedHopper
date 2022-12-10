@@ -1,7 +1,7 @@
 # About me
 
 Hello!
-My name is Igor Mytsik. I'm a Software Engineer and Game Developer specializing in different fields, from Data Analysis to low-level socket programming. Using latest technologies and technics in troubleshooting I ensure to provide optimal quality. Capable of writing new modules and tweaking old ones. Ready to collaborate with technical teams and provide optimized and sustainable solution.
+My name is Igor Mytsik. I'm a Software Engineer and a Game Developer specializing in different fields, from Data Analysis to low-level socket programming. Using latest technologies and technics in troubleshooting I ensure to provide optimal quality. Capable of writing new modules and tweaking old ones. Ready to collaborate with technical teams and provide optimized and sustainable solution.
 
 ## Skills
  ### Programming languages
