@@ -17,3 +17,4 @@ My name is Igor Mytsik. I'm a Software Engineer and a Game Developer specializin
   * **OpenGL graphics**. I've developed several OpenGL projects (Core version 3.3) in C++ language. One of them is my C++/OpenGL game: https://github.com/RedHopper/roaring_dungeon.
   * **MySQL.** A program that reads browser's sqlite databases and shows user's search history, downloads and bookmarks.
   * **Socket programming.** DNS resolution program written in C++ for Linux: https://github.com/RedHopper/dns_resolver.
+  * **Python IMAP**. Utility that reads messages from email INBOX folder: https://github.com/RedHopper/easy_mail
