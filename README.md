@@ -12,6 +12,6 @@ My name is Igor Mytsik. I'm a Software Engineer and a Back-End Developer. I've w
   GIT, Visual Studio, GNU compiler 
 
 ## Developing experience
-  * **MySQL + PHP Blog** My personal PHP blog, which uses MariaDB as its database server
-  * **DNS Look Up Tool** A socket program written in C++ for Linux: https://github.com/RedHopper/dns_resolver
-  * **Python IMAP**. A utility that reads messages from an email INBOX folder: https://github.com/RedHopper/easy_mail
+  * **MySQL + PHP Blog** - My personal PHP blog, which uses MariaDB as its database server
+  * **DNS Look Up Tool** - A socket program written in C++ for Linux: https://github.com/RedHopper/dns_resolver
+  * **Python IMAP** - A utility that reads messages from an email INBOX folder: https://github.com/RedHopper/easy_mail
